@@ -18,3 +18,13 @@ h1 {
 a {
   color: aquamarine;
 }
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.description {
+  font-size: 21px;
+  color: gray;
+}
