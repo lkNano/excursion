@@ -24,11 +24,19 @@ h2 {
   font-weight: 300;
 }
 
-.description {
+span {
   font-size: 21px;
   color: gray;
 }
 
 .iphone-icon {
   margin-top: 25px;
+}
+
+.img {
+  margin-top: 25px;
+}
+
+footer {
+  text-align: right;
 }
